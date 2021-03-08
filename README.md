@@ -21,6 +21,10 @@
 
 - teaching high-school students English reading comprehension for CSAT (Korean SAT)
 
+### Skill Sets
+- python3
+- sql
+- html, css
 
 ### Certificates
 - Tacademy : kaggle data analysis (2021), mobile service planning (2014)
