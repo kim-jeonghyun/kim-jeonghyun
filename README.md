@@ -1,11 +1,10 @@
 ## Kim Jeonghyun
+### aspiring big data and perfomance marketing specialist
 
 - email: (kimjeonhyun.jkim@gmail.com)
 - github: (https://github.com/kim-jeonghyun)
 - kaggle: (https://www.kaggle.com/jeonghyunjhkim)
 - codecademy: (https://www.codecademy.com/profiles/kimjeonghyun.jkim)
-
-### working on to be a big data and perfomance marketing specialist
 
 - 🔭 I’m currently working on my github and kaggle skills
 - 🌱 I’m currently learning python3, machine learning
@@ -14,11 +13,19 @@
 
 ### Experiences
 
-CEO of Mobile App Service Company BoreumdalLab (2012 - 2020)
- 
+#### CEO of Mobile App Service Company [BoreumdalLab](https://play.google.com/store/apps/dev?id=4668137433251011654) (2012 - 2020) Closed
+
+- working as a service planning, contents producer and service manager of foreign language learning apps
+
+#### English instructor at BlueMentor (2009 - 2011) Closed
+
+- teaching high-school students English reading comprehension for CSAT (Korean SAT)
+
+
 ### Certificates
 - Tacademy : kaggle data analysis (2021), mobile service planning (2014)
 - Codecademy : Python3, Command Line, Git (2021)
+- Master's degree in Family Studies at SNU (2009)
 - English : TEPS 1+ (2006)
 - Japanse : JLPT N1 (2016)
 
