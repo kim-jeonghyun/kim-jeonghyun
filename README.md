@@ -32,3 +32,5 @@
 ### ToDo
 - FastCampus Digital Marketing Course (https://www.fastcampus.co.kr/category_degree_online/)
 - ML Study through kaggle competitions and codecademy course(https://www.codecademy.com/learn/machine-learning)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jeonghyun)](https://github.com/anuraghazra/github-readme-stats)
