@@ -27,6 +27,8 @@
 - html, css
 
 ### Certificates
+- Fast Campus Digital Marketing Byte Degree (2021) (https://www.fastcampus.co.kr/category_degree_online/)
+- SSAC x Fast Campus Big Data Analyst (2021) (https://ssac.seoul.kr/course/course_view.jsp?id=22228&s_style=gallery&ch=course)
 - Tacademy : kaggle data analysis (2021), mobile service planning (2014)
 - Codecademy : Python3, Command Line, Git (2021)
 - Master's degree in Family Studies at SNU (2009)
@@ -34,7 +36,6 @@
 - Japanse : JLPT N1 (2016)
 
 ### ToDo
-- FastCampus Digital Marketing Course (https://www.fastcampus.co.kr/category_degree_online/)
-- ML Study through kaggle competitions and codecademy course(https://www.codecademy.com/learn/machine-learning)
+- Programmers AI dev course
 
 [![kim-jeonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jeonghyun&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
