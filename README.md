@@ -1,13 +1,13 @@
 ## Kim Jeonghyun
-### aspiring big data and perfomance marketing specialist
+### aspiring big data analyst / engineer
 
 - email: (kimjeonhyun.jkim@gmail.com)
 - github: (https://github.com/kim-jeonghyun)
 - kaggle: (https://www.kaggle.com/jeonghyunjhkim)
 - codecademy: (https://www.codecademy.com/profiles/kimjeonghyun.jkim)
 
-- 🔭 I’m currently working on my github and kaggle skills
-- 🌱 I’m currently learning python3, machine learning
+- 🔭 I’m currently participating KDTxprogrammers AI dev course.
+- 🌱 I’m currently learning python3, ML, AI
 - 👯 I’m an avid fan of (https://codecademy.com) and (https://duolingo.com)
 - Former product planner and manager of Android Apps 
 
