@@ -31,9 +31,8 @@
 - SSAC x Fast Campus Big Data Analyst (2021) (https://ssac.seoul.kr/course/course_view.jsp?id=22228&s_style=gallery&ch=course)
 - Tacademy : kaggle data analysis (2021), mobile service planning (2014)
 - Codecademy : Python3, Command Line, Git (2021)
-- Master's degree in Family Studies at SNU (2009)
-- English : TEPS 1+ (2006)
-- Japanse : JLPT N1 (2016)
+- English : TEPS 1+ 
+- Japanse : JLPT N1 
 
 ### ToDo
 - Programmers AI dev course
