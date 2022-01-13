@@ -13,6 +13,10 @@
 
 ### Experiences
 
+#### currently Data Analyst at INNOPOST
+
+- Korean NLP
+
 #### CEO of Mobile App Service Company [BoreumdalLab](https://play.google.com/store/apps/dev?id=4668137433251011654) (2012 - 2020) Closed
 
 - working as a service planning, contents producer and service manager of foreign language learning apps
@@ -24,7 +28,7 @@
 ### Skill Sets
 - python3
 - sql
-- html, css
+- html, css, Vanilla JS
 
 ### Certificates
 - Fast Campus Digital Marketing Byte Degree (2021) (https://www.fastcampus.co.kr/category_degree_online/)
