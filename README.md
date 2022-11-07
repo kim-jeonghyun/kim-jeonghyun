@@ -6,14 +6,19 @@
 - kaggle: (https://www.kaggle.com/jeonghyunjhkim)
 - codecademy: (https://www.codecademy.com/profiles/kimjeonghyun.jkim)
 
-- 🔭 I’m currently participating KDTxprogrammers AI dev course.
+
 - 🌱 I’m currently learning python3, ML, AI
 - 👯 I’m an avid fan of (https://codecademy.com) and (https://duolingo.com)
 - Former product planner and manager of Android Apps 
+- Participated [Goolge ML bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp_84589b), [KDTxprogrammers AI dev course](https://school.programmers.co.kr/learn/courses/14620), [SeSSACxFastCampus data analyst course](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1454&srchCategoryTypeCd=&courseMasterSeq=257&currentMenuId=900002001)
 
 ### Experiences
 
-#### currently Data Analyst at INNOPOST
+#### Currently working as as AI Engineer at [Lumanlab.com](https://www.lumanlab.com/)
+- Data Pipleline Building
+- CV-based Screening Model Development
+
+#### Worked as a Data Scientist at INNOPOST
 
 - Korean NLP
 
@@ -27,7 +32,8 @@
 
 ### Skill Sets
 - python3
-- sql
+- Tensorflow, PyTorch, scikit-learn
+- SQL, NoSQL
 - html, css, Vanilla JS
 
 ### Certificates
