@@ -35,16 +35,20 @@
 - Tensorflow, PyTorch, scikit-learn
 - SQL, NoSQL
 - html, css, Vanilla JS
+- FastAPI, Flask
+- AWS S3, RDS, EC2
+- WanDB, CVAT, label-studio, Roboflow
+- Openmmlab
 
 ### Certificates
+- Coursera DeepLearning Certificate (2022)
+- Google ML Bootcamp (2022)
+- Programmers AI dev course (2022)
 - Fast Campus Digital Marketing Byte Degree (2021) (https://www.fastcampus.co.kr/category_degree_online/)
 - SSAC x Fast Campus Big Data Analyst (2021) (https://ssac.seoul.kr/course/course_view.jsp?id=22228&s_style=gallery&ch=course)
 - Tacademy : kaggle data analysis (2021), mobile service planning (2014)
 - Codecademy : Python3, Command Line, Git (2021)
 - English : TEPS 1+ 
 - Japanse : JLPT N1 
-
-### ToDo
-- Programmers AI dev course
 
 [![kim-jeonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jeonghyun&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
