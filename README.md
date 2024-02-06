@@ -1,10 +1,9 @@
 ## Kim Jeonghyun
-### aspiring big data analyst / engineer
+### Data Scientist / AI Engineer
 
 - email: (kimjeonhyun.jkim@gmail.com)
 - github: (https://github.com/kim-jeonghyun)
-- kaggle: (https://www.kaggle.com/jeonghyunjhkim)
-- codecademy: (https://www.codecademy.com/profiles/kimjeonghyun.jkim)
+- linkedin: (https://www.linkedin.com/in/jeonghyun-kim/)
 
 
 - 🌱 I’m currently learning python3, ML, AI
@@ -14,7 +13,7 @@
 
 ### Experiences
 
-#### Currently working as as AI Engineer at [Lumanlab.com](https://www.lumanlab.com/)
+#### Currently working as as Data Scientist at [Lumanlab.com](https://www.lumanlab.com/)
 - Data Pipleline Building
 - CV-based Screening Model Development
 
