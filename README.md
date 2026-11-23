@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm Jeonghyun Kim, a data scientist and AI engineer with a passion for leveraging technology to solve complex problems. With a strong foundation in Python, machine learning, and artificial intelligence, I've worked on projects across various domains, including computer vision, natural language processing, and digital health.
 
-- 📫 How to reach me: [Email](mailto:kimjeonhyun.jkim@gmail.com)
+- 📫 How to reach me: [Email](mailto:kimjeonghyun.jkim@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeonghyun-kim/)
 - 💻 Check out my projects on [GitHub](https://github.com/kim-jeonghyun)
 
